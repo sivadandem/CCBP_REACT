@@ -1,5 +1,7 @@
 In this project, let's build a **Social Buttons** by applying the concepts we have learned till now.
 
+>> run-> npx serve
+
 ### Refer to the image below::
 
 <br/>
